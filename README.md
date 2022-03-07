@@ -24,3 +24,4 @@ cd database
 ### If golang is installed in /usr/local/go/bin/go, running with sudo will break the deployment script.
 ### To work around this, login as root or grant your user rights to the docker daemon. 
 ### If you are logging in as root, make sure to add your path to golang to your PATH environment!
+### You will also need GNUMake to compile the backend app
