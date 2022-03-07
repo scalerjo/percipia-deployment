@@ -1,6 +1,6 @@
 create table todo (
     id SERIAL PRIMARY KEY NOT NULL,
-    text VARCHAR(100),
+    text VARCHAR(200),
     time BIGINT
 );
 
