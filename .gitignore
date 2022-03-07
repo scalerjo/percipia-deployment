@@ -1,0 +1,9 @@
+backend/percipia-backend/
+backend/percipia-backend/main
+backend/main
+
+nginx/default.conf
+nginx/public/
+nginx/percipia-frontend/
+nginx/percipia-frontend/build/
+nginx/percipia-frontend/node-modules/
